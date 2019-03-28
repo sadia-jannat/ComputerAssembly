@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ComputerAssembly</string>
+    <string name="title_activity_admin_home_draw">AdminHomeDrawActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Website</string>
+
+    <array name="genres">
+        <item>computer monitor</item>
+        <item>mouse</item>
+        <item>pendrive</item>
+        <item>keyboard</item>
+        <item>laptop</item>
+        <item>head phone</item>
+        <item>ear phone</item>
+        <item>sound box</item>
+        <item>card reader</item>
+        <item>power bank</item>
+
+
+    </array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#ff809e"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.user.computerassembly.AddImageActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="choose image"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/bimageid"
+        android:layout_height="50dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="#940733"
+        android:layout_marginBottom="5dp"
+        android:textAlignment="center"
+        android:id="@+id/eimageid"
+        android:hint="Enter Product Name" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:textAlignment="center"
+        android:textColor="#940733"
+        android:id="@+id/eimage2id"
+        android:hint="Enter Prize" />
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/iimageid"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:text="add product"
+        android:id="@+id/b2imageid"
+        android:layout_height="60dp" />
+
+
+
+</LinearLayout>

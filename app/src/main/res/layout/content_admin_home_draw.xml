@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#d68bf5"
+    android:padding="10dp"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.user.computerassembly.AdminHomeDrawActivity"
+    tools:showIn="@layout/app_bar_admin_home_draw">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#0c0640"
+       android:textAlignment="center"
+
+        android:orientation="vertical"
+        android:text="GENIUS TECHNOLOGY
+
+Address: 1st Floor, Kaniz Plaza, Zindabazar, Sylhet 3100
+Hours:
+Open ⋅ Closes 9:30PM
+Phone: 01714-040404"
+        />
+    <ImageView
+        android:layout_width="310dp"
+        android:src="@drawable/genius"
+        android:layout_height="210dp" />
+
+</LinearLayout>

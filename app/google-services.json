@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "660268480139",
+    "firebase_url": "https://computerassembly-b05ef.firebaseio.com",
+    "project_id": "computerassembly-b05ef",
+    "storage_bucket": "computerassembly-b05ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660268480139:android:038362f844ac50dd",
+        "android_client_info": {
+          "package_name": "com.example.user.computerassembly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660268480139-f6netp6c33637phm1b5pkes6hv5n4qdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.computerassembly",
+            "certificate_hash": "b4f11d605083cfc3df82bd156c75732942000dc8"
+          }
+        },
+        {
+          "client_id": "660268480139-4rpfiajhrgph7n986bhkfq4ligr5gvks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuB5T-_ji8q5eIgKyAGigVRTlia7CaoD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660268480139-4rpfiajhrgph7n986bhkfq4ligr5gvks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

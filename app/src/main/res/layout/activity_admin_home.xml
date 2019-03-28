@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+   android:background="@drawable/backadmine"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.user.computerassembly.AdminHomeActivity">
+
+    <Button
+        android:id="@+id/addviewid"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:text="Add
+Product"
+        android:textColor="#100535"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/vieworderid"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+
+        android:text="View
+Order"
+        android:textColor="#640d54"
+        android:textStyle="bold" />
+
+
+
+
+    <Button
+        android:id="@+id/confermid"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:text="Conferm
+User"
+        android:textColor="#7b2c08"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/logoutadminid"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+
+        android:text="log
+out"
+        android:textColor="#530313"
+        android:textStyle="bold" />
+
+
+
+</LinearLayout>
